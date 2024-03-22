@@ -1,0 +1,44 @@
+PS C:\JSTraining\HTM-CSS-JS-11> git init
+Reinitialized existing Git repository in C:/JSTraining/HTM-CSS-JS-11/.git/
+PS C:\JSTraining\HTM-CSS-JS-11>
+PS C:\JSTraining\HTM-CSS-JS-11> git add.
+The most similar command is
+add
+PS C:\JSTraining\HTM-CSS-JS-11> git add  
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?  
+hint: Turn this message off by running  
+lse"
+PS C:\JSTraining\HTM-CSS-JS-11> git add .  
+PS C:\JSTraining\HTM-CSS-JS-11> git commint lse"
+-m "hello comment"
+git: 'commint' is not a git command. See 'git --help'.
+
+The most similar command is
+commit
+PS C:\JSTraining\HTM-CSS-JS-11> git commit -m "hello comment"
+Author identity unknown
+
+\*\*\* Please tell me who you are.
+
+Run
+is repository.
+
+fatal: unable to auto-detect email address (PS C:\JSTraining\HTM-CSS-JS-11> git add .  
+PS C:\JSTraining\HTM-CSS-JS-11> git commit -m "update"
+[main (root-commit) 0762f79] update
+1 file changed, 22 insertions(+)
+create mode 100644 Classes/first.html  
+PS C:\JSTraining\HTM-CSS-JS-11> git remote add origin https://github.com/palak703/HTML-CSS-JS.git
+PS C:\JSTraining\HTM-CSS-JS-11> git push -u
+origin main
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (4/4), 932 bytes | 310.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/palak703/HTML-CSS-JS.git
+
+- [new branch] main -> main
+  branch 'main' set up to track 'origin/main'.PS C:\JSTraining\HTM-CSS-JS-11>
