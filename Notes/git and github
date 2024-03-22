@@ -29,7 +29,7 @@ PS C:\JSTraining\HTM-CSS-JS-11> git commit -m "update"
 [main (root-commit) 0762f79] update
 1 file changed, 22 insertions(+)
 create mode 100644 Classes/first.html  
-PS C:\JSTraining\HTM-CSS-JS-11> git remote add origin https://github.com/palak703/HTML-CSS-JS.git
+PS C:\JSTraining\HTM-CSS-JS-11> 
 PS C:\JSTraining\HTM-CSS-JS-11> git push -u
 origin main
 Enumerating objects: 4, done.
