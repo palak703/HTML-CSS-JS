@@ -1,0 +1,19 @@
+#bd
+{
+    background-image: url('https://www.hindustantimes.com/ht-img/img/2024/03/24/1600x900/Happy_Holi_2024_1711255275893_1711255282173.jpg');
+    color: #0000;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background:radial-gradient(aqua,black);
+}
+p{
+    text-align: center;
+    color: black;
+}
+#para1,#para2
+{
+    background-color: red;
+    padding-top: 50px;
+    margin-top: 50px;
+    border: 1px solid white;
+}

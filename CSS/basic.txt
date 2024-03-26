@@ -1,0 +1,11 @@
+how css works ??
+Cascading style sheets, these are used to includestyling or designing into web pages.
+There are three ways to achieve css.
+a.Inline(in the line of htl element, style will be applied as attribute)
+b.Internal, Internal styling means apple style as a element
+<style>
+selector{
+    property-name:value
+}
+selector can be tagnames, classname like .class1 and id names like #id1,#id2 etc.
+3.External class
